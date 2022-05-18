@@ -28,25 +28,17 @@ Each value was given a numeric value.
 
 
 on                               1
-
 no-heating                      -1
-
 deposit-is-obligatory           -1
-
 final-cleaning-in-price          1
-
 yes-free                         1
 
-                                ..
+
                                 
 card_payment_not_accepted       -1
-
 int-con-public-areas             1
-
 int-con-business-centre          1
-
 entire_property                  1
-
 after_cancellation_fee_begins    0
 
 
