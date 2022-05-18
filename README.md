@@ -28,15 +28,25 @@ Each value was given a numeric value.
 
 
 on                               1
+
 no-heating                      -1
+
 deposit-is-obligatory           -1
+
 final-cleaning-in-price          1
+
 yes-free                         1
+
                                 ..
+                                
 card_payment_not_accepted       -1
+
 int-con-public-areas             1
+
 int-con-business-centre          1
+
 entire_property                  1
+
 after_cancellation_fee_begins    0
 
 
@@ -50,12 +60,15 @@ In these scripts I added values from facility csv to units. Distance script retr
 
 
 id_property	id	category	area	floor	beds_basic	beds_additional	garden	twin_bed	unit_wardrobe_closet	...	mosquito_net	paying_amex	paying_master	paying_visa																					
-24588	10043	24588	3	100.0	2	4	2	1	1	1	...	0	0	0	0	0	0	0	0	0	0
-24589	10043	24589	3	100.0	1	4	2	1	1	1	...	0	0	0	0	0	0	0	0	0	0
-24590	10043	24590	3	100.0	0	4	0	1	1	1	...	0	0	0	0	0	0	0	0	0	0
-24593	10046	24593	3	53.0	0	4	0	1	1	1	...	0	0	0	0	0	0	0	0	0	0
 
 
+## eda2.py, eda_cjenik.py
+
+Exploratory data analysis on facilities and prices of apartments.
+
+## model2.py
+
+DNN modeled in Keras with input layer of 12
 
 
 
