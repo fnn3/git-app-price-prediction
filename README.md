@@ -10,18 +10,18 @@ In these scripts I analyzed the data to get insight in different values from fac
 
 for example :
 
-0                                 on
-1                         no-heating
-2              deposit-is-obligatory
-3            final-cleaning-in-price
-4                           yes-free
-                   ...              
-120        card_payment_not_accepted
-121             int-con-public-areas
-122          int-con-business-centre
-123                  entire_property
-124    after_cancellation_fee_begins
-Length: 125, dtype: object
+                                on
+                         no-heating
+             deposit-is-obligatory
+            final-cleaning-in-price
+                          yes-free
+             
+        card_payment_not_accepted
+             int-con-public-areas
+          int-con-business-centre
+                  entire_property
+    after_cancellation_fee_begins
+
 
 
 Each value was given a numeric value.
