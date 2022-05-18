@@ -11,35 +11,32 @@ In these scripts I analyzed the data to get insight in different values from fac
 for example :
 
                                 on
-                         no-heating
+                        no-heating
              deposit-is-obligatory
-            final-cleaning-in-price
+           final-cleaning-in-price
                           yes-free
              
-        card_payment_not_accepted
-             int-con-public-areas
-          int-con-business-centre
-                  entire_property
-    after_cancellation_fee_begins
+         card_payment_not_accepted
+              int-con-public-areas
+           int-con-business-centre
+                   entire_property
+     after_cancellation_fee_begins
 
 
 
 Each value was given a numeric value.
 
 
-on                               1
-no-heating                      -1
-deposit-is-obligatory           -1
-final-cleaning-in-price          1
-yes-free                         1
-
-
-                                
-card_payment_not_accepted       -1
-int-con-public-areas             1
-int-con-business-centre          1
-entire_property                  1
-after_cancellation_fee_begins    0
+	on                               1
+	no-heating                      -1
+	deposit-is-obligatory           -1
+	final-cleaning-in-price          1
+	yes-free                         1                        
+	card_payment_not_accepted       -1
+	int-con-public-areas             1
+	int-con-business-centre          1
+	entire_property                  1
+	after_cancellation_fee_begins    0
 
 
 ## p_units_analysis.py
