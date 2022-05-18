@@ -70,7 +70,7 @@ Exploratory data analysis on facilities and prices of apartments.
 
 DNN modeled in Keras with input layer of 247 nodes which is the number of input features, one hidden dense layer with 128 nodes and relu activation function, and last output layer with one node. I used  Adam optimizer and learning rate of 0,003, metrics used are mean squared error. Batch size is 16 and training has 150 epochs.
 
-mean squared error is 16 %
+mean squared error is 13 %
 
 
 	pred		test	diff
