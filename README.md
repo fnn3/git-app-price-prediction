@@ -73,7 +73,7 @@ DNN modeled in Keras with input layer of 247 nodes which is the number of input 
 mean squared error is 10 %
 
 
-	pred	test	diff
+	pred		test	diff
 	71.311707	70.00	-1.311707
 	61.472240	59.00	-2.472240
 	48.984123	45.00	-3.984123
